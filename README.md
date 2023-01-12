@@ -1,2 +1,2 @@
 # desafio-7DaysOfCode
-Desafio realizado no fim da formação de HTML e CSS da Alura, desenvolvido pela Giovanna Moeller.
+Desafio realizado no fim da formação de HTML e CSS da Alura. Desafio desenvolvido pela Giovanna Moeller.
